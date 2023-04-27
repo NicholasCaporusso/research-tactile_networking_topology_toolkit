@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="8.5in"
+   height="11in"
+   viewBox="0 0 215.9 279.4"
+   version="1.1"
+   id="svg16971"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="cnc.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview16973"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.90509668"
+     inkscape:cx="630.31941"
+     inkscape:cy="500.49902"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g17769" />
+  <defs
+     id="defs16968" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g17769"
+       transform="translate(457.13163,109.99547)">
+      <text
+         xml:space="preserve"
+         style="font-size:6.35px;font-variation-settings:normal;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.98807;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+         x="-395.99426"
+         y="-97.171883"
+         id="text16259-1"><tspan
+           sodipodi:role="line"
+           id="tspan16257-71"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke-width:0.98807"
+           x="-395.99426"
+           y="-97.171883">Tactile Networking Topology Toolkit</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;font-variation-settings:normal;vector-effect:none;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.98807;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+         x="-427.32364"
+         y="-32.55167"
+         id="text16259-1-0"><tspan
+           sodipodi:role="line"
+           id="tspan16257-71-4"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Calibri;-inkscape-font-specification:Calibri;stroke-width:0.98807"
+           x="-427.32364"
+           y="-32.55167">Client</tspan></text>
+      <path
+         id="rect479-6-8-7"
+         style="fill:none;stroke:#000000;stroke-width:0.25;stroke-opacity:1;stroke-dasharray:none"
+         d="m -443.61952,-80.925062 v 42.2474 h 42.2474 v -42.2474 z" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;font-variation-settings:normal;vector-effect:none;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.98807;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+         x="-359.67783"
+         y="-32.717037"
+         id="text16259-1-0-6"><tspan
+           sodipodi:role="line"
+           id="tspan16257-71-4-2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Calibri;-inkscape-font-specification:Calibri;stroke-width:0.98807"
+           x="-359.67783"
+           y="-32.717037">Server</tspan></text>
+      <path
+         id="rect479-4-9-6-0-5-19-6"
+         style="fill:none;stroke:#000000;stroke-width:0.25;stroke-opacity:1;stroke-dasharray:none"
+         d="m -375.26297,-80.925062 v 16.162588 h -4.96784 v 9.922742 h 4.96784 v 16.16207 h 42.24792 v -16.16207 h 4.96836 v -9.922742 h -4.96836 v -16.162588 z" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;font-variation-settings:normal;vector-effect:none;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.98807;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+         x="-296.25998"
+         y="-32.55167"
+         id="text16259-1-0-6-3"><tspan
+           sodipodi:role="line"
+           id="tspan16257-71-4-2-2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Calibri;-inkscape-font-specification:Calibri;stroke-width:0.98807"
+           x="-296.25998"
+           y="-32.55167">Server cluster</tspan></text>
+      <path
+         id="rect479-4-9-6-0-13"
+         style="fill:none;stroke:#000000;stroke-width:0.25;stroke-opacity:1;stroke-dasharray:none"
+         d="m -305.43709,-80.925062 v 2.888415 h -4.96837 v 9.922742 h 4.96837 v 3.351431 h -4.96837 v 9.922742 h 4.96837 v 3.350913 h -4.96837 v 9.922742 h 4.96837 v 2.888415 h 42.24792 v -2.888415 h 4.96836 v -9.922742 h -4.96836 v -3.350913 h 4.96836 v -9.922742 h -4.96836 v -3.351431 h 4.96836 v -9.922742 h -4.96836 v -2.888415 z" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;font-variation-settings:normal;vector-effect:none;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.98807;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+         x="-403.49188"
+         y="-92.336708"
+         id="text16259-1-0-4"><tspan
+           sodipodi:role="line"
+           id="tspan16257-71-4-8"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Calibri;-inkscape-font-specification:Calibri;stroke-width:0.98807"
+           x="-403.49188"
+           y="-92.336708">https://github.com/NicholasCaporusso/Tactile-Networking-Topology-Toolkit</tspan></text>
+      <path
+         id="rect479-4-9-6-3-7"
+         style="fill:none;stroke:#000000;stroke-width:0.25;stroke-opacity:1;stroke-dasharray:none"
+         d="m -440.45558,47.240368 v 5.985549 l -6.3284,-3.653893 v 18.792044 18.792044 l 6.3284,-3.653893 v 5.985548 h 42.24792 V 47.240368 Z" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;font-variation-settings:normal;vector-effect:none;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.98807;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+         x="-429.04239"
+         y="95.024979"
+         id="text16259-1-0-5-5"><tspan
+           sodipodi:role="line"
+           id="tspan16257-71-4-7-3"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Calibri;-inkscape-font-specification:Calibri;stroke-width:0.98807"
+           x="-429.04239"
+           y="95.024979">Firewall</tspan></text>
+      <path
+         id="rect479-4-9-3"
+         style="fill:none;stroke:#000000;stroke-width:0.25;stroke-opacity:1;stroke-dasharray:none"
+         d="m -375.26452,47.240368 v 12.046195 l -9.08838,9.088381 9.08838,9.08838 v 12.024443 h 42.24792 V 77.465396 h 10e-4 l 9.09045,-9.090452 -9.09148,-9.092006 v -12.04257 z" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;font-variation-settings:normal;vector-effect:none;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.98807;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+         x="-357.75339"
+         y="95.024979"
+         id="text16259-1-0-6-4-2"><tspan
+           sodipodi:role="line"
+           id="tspan16257-71-4-2-23-7"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Calibri;-inkscape-font-specification:Calibri;stroke-width:0.98807"
+           x="-357.75339"
+           y="95.024979">Hub</tspan></text>
+      <path
+         id="path18358-7"
+         style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         d="m -284.31287,47.295267 a 21.069693,21.068654 0 0 0 -15.16509,6.458406 l -2.04265,0.0036 -9.10082,9.101329 5.24856,5.248554 a 21.069693,21.068654 0 0 0 -0.01,0.256887 21.069693,21.068654 0 0 0 21.06984,21.0688 21.069693,21.068654 0 0 0 15.15679,-6.450636 l 2.06131,-0.001 9.09045,-9.089934 -5.2496,-5.249591 a 21.069693,21.068654 0 0 0 0.0104,-0.277602 21.069693,21.068654 0 0 0 -21.06932,-21.068801 z" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;font-variation-settings:normal;vector-effect:none;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.98807;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+         x="-307.67426"
+         y="94.88855"
+         id="text16259-1-0-6-3-4-8"><tspan
+           sodipodi:role="line"
+           id="tspan16257-71-4-2-2-5-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Calibri;-inkscape-font-specification:Calibri;stroke-width:0.98807"
+           x="-307.67426"
+           y="94.88855">Intrusion Detection System</tspan></text>
+      <path
+         id="path16490-0"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-opacity:1;stroke-dasharray:none"
+         d="m -422.49582,108.54032 c -1.84018,0 -3.68025,0.0347 -4.54005,0.10358 -5.19676,0.41669 -9.00767,1.23153 -11.94054,2.55385 -1.46613,0.66102 -2.17702,1.09008 -3.01375,1.81892 -0.75759,0.65989 -1.15035,1.18587 -1.44913,1.94062 l -0.21338,0.53915 v 14.35404 14.35402 l 0.19837,0.48632 c 0.4428,1.08399 1.27639,1.96066 2.66156,2.7983 3.2464,1.96314 8.80552,3.24843 15.52762,3.58967 l -5.2e-4,-5.1e-4 c 1.36172,0.069 6.32856,-0.0267 7.73041,-0.14969 4.99788,-0.43781 8.89445,-1.31404 11.84213,-2.66259 2.27205,-1.03945 3.56158,-2.13538 4.12365,-3.50474 l 0.23047,-0.56142 v -14.35196 -14.35144 l -0.21286,-0.53915 c -0.29873,-0.75475 -0.69151,-1.28073 -1.44913,-1.94062 -0.83674,-0.72884 -1.54755,-1.1579 -3.01375,-1.81892 -2.93282,-1.32232 -6.74427,-2.13711 -11.94106,-2.55385 -0.85977,-0.0688 -2.69986,-0.10358 -4.54004,-0.10358 z" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;font-variation-settings:normal;vector-effect:none;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.98807;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+         x="-430.41284"
+         y="160.44197"
+         id="text16259-1-0-5-2"><tspan
+           sodipodi:role="line"
+           id="tspan16257-71-4-7-7"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Calibri;-inkscape-font-specification:Calibri;stroke-width:0.98807"
+           x="-430.41284"
+           y="160.44197">Database</tspan></text>
+      <path
+         id="rect479-4-9-4-7-0"
+         style="fill:none;stroke:#000000;stroke-width:0.25;stroke-opacity:1;stroke-dasharray:none"
+         d="m -374.26598,104.65803 c -2.77802,0 -5.0331,2.25555 -5.0331,5.03362 0,2.43336 1.73028,4.46608 4.02679,4.93262 v 10.26406 c -2.29651,0.46682 -4.02679,2.49924 -4.02679,4.93262 0,2.43339 1.73028,4.46609 4.02679,4.93262 v 10.26406 c -2.29651,0.46698 -4.02679,2.49921 -4.02679,4.93262 0,2.77802 2.25508,5.03363 5.0331,5.03363 2.43312,0 4.46608,-1.73034 4.93263,-4.0268 h 10.26197 c 0.46683,2.29646 2.49928,4.0268 4.93263,4.0268 2.4334,0 4.46557,-1.73034 4.9321,-4.0268 h 10.26198 c 0.4667,2.29646 2.49951,4.0268 4.93263,4.0268 2.77801,0 5.03362,-2.25561 5.03362,-5.03363 0,-2.43341 -1.73028,-4.46609 -4.02679,-4.93262 v -10.26406 c 2.29651,-0.46686 4.02679,-2.49923 4.02679,-4.93262 0,-2.43338 -1.73028,-4.46607 -4.02679,-4.93262 v -10.26406 c 2.29651,-0.46697 4.02679,-2.49926 4.02679,-4.93262 0,-2.77807 -2.25561,-5.03362 -5.03362,-5.03362 -2.43312,0 -4.46609,1.73033 -4.93263,4.02679 h -10.26198 c -0.46685,-2.29646 -2.4987,-4.02679 -4.9321,-4.02679 -2.43335,0 -4.46611,1.73033 -4.93263,4.02679 h -10.26197 c -0.46668,-2.29646 -2.49951,-4.02679 -4.93263,-4.02679 z" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;font-variation-settings:normal;vector-effect:none;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.98807;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+         x="-357.73892"
+         y="160.4337"
+         id="text16259-1-0-6-4-0"><tspan
+           sodipodi:role="line"
+           id="tspan16257-71-4-2-23-76"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Calibri;-inkscape-font-specification:Calibri;stroke-width:0.98807"
+           x="-357.73892"
+           y="160.4337">Grid</tspan></text>
+      <path
+         id="path13487-6"
+         style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         d="m -284.3279,108.61853 c -3.00729,-0.003 -3.82358,0.11199 -6.03837,0.84938 -5.40376,1.79911 -9.68044,5.83359 -11.82815,11.15848 -0.71277,1.76622 -1.29378,4.45523 -1.29478,5.99125 l -5.3e-4,0.69401 -0.75822,0.18438 c -2.72002,0.66112 -5.08481,2.21957 -6.77952,4.46858 -0.83281,1.10519 -1.69864,2.89603 -2.02712,4.18993 -0.23558,0.91529 -0.26207,1.24972 -0.26207,2.9402 0,1.68511 0.0298,2.02574 0.25896,2.92778 0.33233,1.30994 1.19838,3.10459 2.02712,4.20082 1.97672,2.61438 4.97582,4.34893 8.16753,4.72442 l 5.2e-4,5.2e-4 c 0.43109,0.0533 8.9691,0.0796 18.97331,0.0746 18.09433,-0.018 18.19436,-0.0196 19.13025,-0.23771 4.95216,-1.15865 8.64988,-5.09098 9.3608,-9.95538 0.17745,-1.21463 0.0769,-3.48146 -0.20251,-4.54056 -1.06923,-4.05325 -4.01206,-7.22041 -7.92721,-8.53215 -0.52117,-0.17532 -1.03481,-0.31881 -1.14148,-0.31955 -0.39502,-0.003 -0.45839,-0.15624 -0.56454,-1.36004 -0.74423,-8.48028 -6.93138,-15.46215 -15.24225,-17.20101 -1.10176,-0.23126 -1.46859,-0.25592 -3.85174,-0.25792 z" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;font-variation-settings:normal;vector-effect:none;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.98807;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+         x="-289.35809"
+         y="160.44197"
+         id="text16259-1-0-6-3-4-80"><tspan
+           sodipodi:role="line"
+           id="tspan16257-71-4-2-2-5-8"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Calibri;-inkscape-font-specification:Calibri;stroke-width:0.98807"
+           x="-289.35809"
+           y="160.44197">Cloud</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;font-variation-settings:normal;vector-effect:none;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.98807;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+         x="-428.28894"
+         y="37.560909"
+         id="text16259-1-0-5"><tspan
+           sodipodi:role="line"
+           id="tspan16257-71-4-7"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Calibri;-inkscape-font-specification:Calibri;stroke-width:0.98807"
+           x="-428.28894"
+           y="37.560909">Router</tspan></text>
+      <path
+         id="rect479-07"
+         style="fill:none;stroke:#000000;stroke-width:0.25;stroke-opacity:1;stroke-dasharray:none"
+         d="m -447.9089,-21.509283 v 12.8556974 l 4.28938,4.294037 V 20.524217 l -4.28938,4.298699 4.52399,4.481004 4.25364,-4.262962 h 24.8615 l 4.27695,4.262962 h 12.87071 V 16.448223 l -4.25001,-4.255194 V -12.76946 l 4.25001,-4.259336 -4.52399,-4.480487 -4.293,4.302324 h -24.78277 l -4.31631,-4.302324 z" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;font-variation-settings:normal;vector-effect:none;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.98807;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+         x="-359.6954"
+         y="37.765545"
+         id="text16259-1-0-6-4"><tspan
+           sodipodi:role="line"
+           id="tspan16257-71-4-2-23"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Calibri;-inkscape-font-specification:Calibri;stroke-width:0.98807"
+           x="-359.6954"
+           y="37.765545">Switch</tspan></text>
+      <path
+         id="rect479-4-7"
+         style="fill:none;stroke:#000000;stroke-width:0.25;stroke-opacity:1;stroke-dasharray:none"
+         d="m -375.26245,-17.202299 -5.2e-4,5.19e-4 h -10e-4 v 10e-4 l -9.0889,9.1142757 9.0889,9.0888983 v 5.8581418 l -9.0889,9.0888982 9.0889,9.095113 v 10e-4 h 10e-4 l 5.2e-4,5.17e-4 9.06611,-5.17e-4 h 24.11466 l 9.06611,5.17e-4 9.09045,-9.096667 -9.09148,-9.0914878 V 1.0039838 h 10e-4 l 9.09045,-9.0904521 -9.09148,-9.1137577 v -0.0016 h -0.002 l -5.2e-4,-5.19e-4 -9.10547,5.19e-4 h -24.0292 z" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;font-variation-settings:normal;vector-effect:none;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.98807;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+         x="-291.99875"
+         y="37.59811"
+         id="text16259-1-0-6-3-4"><tspan
+           sodipodi:role="line"
+           id="tspan16257-71-4-2-2-5"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Calibri;-inkscape-font-specification:Calibri;stroke-width:0.98807"
+           x="-291.99875"
+           y="37.59811">Gateway</tspan></text>
+      <path
+         id="rect479-4-9-61-6"
+         style="fill:none;stroke:#000000;stroke-width:0.25;stroke-opacity:1;stroke-dasharray:none"
+         d="m -284.32219,-23.78086 -6.5739,6.573901 h -3.92269 l -3.33849,-3.32916 h -10.60846 v 10.5965493 l 3.32864,3.3327859 v 3.9589458 l -6.57338,6.5739008 6.57338,6.5733832 v 3.941336 l -3.32864,3.332787 v 10.596032 h 10.60846 l 3.33797,-3.328643 h 3.92373 l 6.57338,6.573383 6.57338,-6.573383 h 3.95947 l 3.33277,3.328643 h 10.59656 V 17.761138 l -3.32916,-3.338482 v -3.922692 l 6.5739,-6.5739012 -6.5739,-6.5739008 v -3.9413366 l 3.32916,-3.3379652 V -20.536119 h -10.59656 l -3.33277,3.32916 h -3.95895 z" />
+    </g>
+  </g>
+</svg>
